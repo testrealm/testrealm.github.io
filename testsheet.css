@@ -18,14 +18,20 @@ td.header {
 	font-size: 12px;
 	font-variant: small-caps;
 	color: #ffffff;
+	position: relative;
+
+	a {
+		height: 100%;
+		display: block;
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		right: 0;
+		left: 0;
+	}
+
 }
 
 td.header:hover {
 	background-color: #0077dd;
-}
-
-a.table
-{
-    display:block;
-    text-decoration:none;
 }
