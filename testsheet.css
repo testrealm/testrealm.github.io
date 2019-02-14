@@ -1,16 +1,25 @@
+body {
+  background-color: #dddddd;
+}
+
 table.header {
 	width: 100%;
 	background-color: #003399;
 }
 
 tr.header {
-	height:70px;
+	height:40px;
+}
+
+td.header {
+	text-align: center;
+	vertical-align: center;
+	font-family: helvetica;
+	font-size: 12px;
+	font-variant: small-caps;
+	font-color: #ffffff;
 }
 
 td.header:hover {
 	background-color: #0077dd;
-}
-
-body {
-  background-color: #000000;
 }
