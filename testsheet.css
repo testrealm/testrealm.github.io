@@ -17,14 +17,14 @@ td.header {
 	font-family: helvetica;
 	font-size: 12px;
 	font-variant: small-caps;
-	font-color: #ffffff;
+	color: #ffffff;
 }
 
 td.header:hover {
 	background-color: #0077dd;
 }
 
-.tablea
+a.table
 {
     display:block;
     text-decoration:none;
