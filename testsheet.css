@@ -23,3 +23,9 @@ td.header {
 td.header:hover {
 	background-color: #0077dd;
 }
+
+.table a
+{
+    display:block;
+    text-decoration:none;
+}
