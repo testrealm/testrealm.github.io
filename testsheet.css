@@ -8,7 +8,7 @@ table.header {
 }
 
 tr.header {
-	height:40px;
+	height: 40px;
 }
 
 td.header {
@@ -24,7 +24,7 @@ td.header:hover {
 	background-color: #0077dd;
 }
 
-.table a
+.tablea
 {
     display:block;
     text-decoration:none;
