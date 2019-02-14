@@ -24,6 +24,7 @@ td a {
 	text-align: center;
 	font-family: helvetica;
 	color: #ffffff;
+	text-decoration: none;
 }
 
 td a:hover {
