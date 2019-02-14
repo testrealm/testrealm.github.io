@@ -18,8 +18,8 @@ td {
 
 td a {
 	display: block;
-	margin: 100%;
-	padding: 100%;
+	margin: 10px;
+	padding: -10px;
 	text-align: center;
 	font-family: helvetica;
 	color: #ffffff;
