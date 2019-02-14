@@ -1,5 +1,5 @@
 body {
-  background-color: #dddddd;
+	background-color: #dddddd;
 }
 
 table {
@@ -12,14 +12,14 @@ tr {
 }
 
 td {
-	width: 100%;
-	height: 100%;
+	overflow: hidden;
+	vertical-align: center;
 }
 
 td a {
-	display: inline-block;
-	height:100%;
-	width:100%;
+	display: block;
+	margin: -10em;
+	padding: 10em;
 	text-align: center;
 	font-family: helvetica;
 	color: #ffffff;
