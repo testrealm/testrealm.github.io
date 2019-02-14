@@ -12,6 +12,7 @@ tr {
 }
 
 td {
+	width: 100%
 	overflow: hidden;
 	vertical-align: center;
 }
